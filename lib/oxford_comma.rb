@@ -1,10 +1,7 @@
 def oxford_comma(array)
- array.take(0..-2)
- 
- 
- 
- end
- 
- 
- 
+ if array == 1 
+
+
+
+end
  
