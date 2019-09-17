@@ -1,5 +1,7 @@
 def oxford_comma(array)
- array.pop
+ array.take(0..-2)
+ array<<and
+ 
  
  end
  
